@@ -1,7 +1,7 @@
 # P Problem Solver
 A CLI program where the user inputs a `.txt` file with a K-SAT problem and a solution to verify. The program then responds with a 1 if the user's solution was accepted or with a 0 if the user's solution was rejected for the K-SAT problem in question.
 
-## What I Learned
+## Abilities Mastered
 - Text conversion to correct format (string parsing)
 - Efficient verification for P-Problem solutions
 
